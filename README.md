@@ -168,6 +168,8 @@ print("Имя: {}\nВозраст: {}\nГород: {}".format(name, age, city))
 
 ## Задания для самостоятельного выполнения
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76262&width=435&lines=%23+to+practice!;num_1+%3D+3.89327;num_2+%3D+int(input(%22%3E+)))](https://git.io/typing-svg)
+
 **Задание 1**
 
 Напишите программу, которая запрашивает у пользователя два числа: первое — его возраст, второе — возраст его друга. Программа должна вывести сумму их возрастов.
