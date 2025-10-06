@@ -1,5 +1,5 @@
 # -4-Python-keyboard-input
-
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=YourName+%3D+input(%22Enter+name%3A+%22);print(f'Hello+%7BYourName%7D+%F0%9F%98%8A');%23++2+%2B+2+%3D+%3F;num+%3D+int(input(%22answer%3A++%22)))](https://git.io/typing-svg)
 
 ## Ввод данных с клавиатуры
